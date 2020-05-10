@@ -1,2 +1,2 @@
 # recipes
-Sites with various recipes
+Site with various recipes
